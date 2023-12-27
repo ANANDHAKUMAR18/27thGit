@@ -19,6 +19,10 @@ public class test {
 		System.out.println(" Hello world");
 	}
 	
+	public void revertStash() {
+		System.out.println(" Hello world");
+	}
+	
 
 	
 	public static void main(String[] args){
@@ -28,6 +32,8 @@ public class test {
 	obj.greetings();
 
 	obj.wow();
+	
+	obj.revertStash();
 
 	obj.stash();
 
