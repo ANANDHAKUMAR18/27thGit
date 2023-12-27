@@ -14,6 +14,10 @@ public class test {
 	public void wow() {
 		System.out.println(" Hello world");
 	}
+
+	public void stash() {
+		System.out.println(" Hello world");
+	}
 	
 
 	
@@ -24,6 +28,8 @@ public class test {
 	obj.greetings();
 
 	obj.wow();
+
+	obj.stash();
 
 
 }
